@@ -1,0 +1,13 @@
+section{
+    width: 40%;
+}
+#box1{
+    width: 50%;
+    float: left;
+    /* background-color: red; */
+}
+#box2{
+    width: 50%;
+    float: right;
+    /* background-color: aqua; */
+}
