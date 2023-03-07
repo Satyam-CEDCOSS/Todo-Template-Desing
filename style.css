@@ -1,7 +1,7 @@
 .container{
     margin: 50px 60px;
     height: 50%;
-    font-size: 13px;
+    font-size: 14px;
     font-family: sans-serif;
 }
 /* header{
@@ -9,6 +9,7 @@
 } */
 section{
     width: 46%;
+    font-size: 13px;
 }
 ul{
     padding-left: 19px;
