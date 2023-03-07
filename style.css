@@ -1,12 +1,17 @@
 .container{
     margin: 50px 60px;
     height: 50%;
+    font-size: 13px;
+    font-family: sans-serif;
 }
 /* header{
     text-align: justify;
 } */
 section{
     width: 40%;
+}
+ul{
+    padding-left: 19px;
 }
 footer{
     text-align: justify;
