@@ -1,13 +1,21 @@
+.container{
+    margin: 50px 60px;
+    height: 50%;
+}
+/* header{
+    text-align: justify;
+} */
 section{
     width: 40%;
 }
+footer{
+    text-align: justify;
+}
 #box1{
-    width: 50%;
+    width: 49%;
     float: left;
-    /* background-color: red; */
 }
 #box2{
-    width: 50%;
+    width: 49%;
     float: right;
-    /* background-color: aqua; */
 }
